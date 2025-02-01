@@ -1,0 +1,22 @@
+Installation Tutorial for the FiveM Ready version of the Safariland 7378 7TS ALS Hip Holsters by sergeantfranki#2708 \ https://thinlinesanctuary.com \ https://discord.gg/7UVysjf
+
+
+ - Open the " Safariland 7378 7TS ALS Holster " folder.
+ - Choose the colorway and the carry you want to go with.
+ - Drag and Drop the files into your EUP resource.
+ - You are all done! The holsters are now completely functional in-game, and they are compatible with a your choice of holstering script!
+ 
+
+[MALE] VMenu Numbers:
+	 - Holster with Glock: 
+	   Scarfs & Chains - #6
+	 
+	 - Holster without Glock:
+	   Scarfs & Chains - #5
+	   
+[FEMALE] VMenu Numbers:
+	 - Holster with Glock: 
+	   Scarfs & Chains - #6
+	 
+	 - Holster without Glock:
+	   Scarfs & Chains - #5

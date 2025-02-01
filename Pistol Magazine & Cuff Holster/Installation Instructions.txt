@@ -1,0 +1,25 @@
+Installation Tutorial for the FiveM Ready version of the Magazine and Cuff Holsters by sergeantfranki#2708 \ https://thinlinesanctuary.com \ https://discord.gg/7UVysjf
+
+
+ - Open the " Pistol Magazine & Cuff Holster " folder.
+ - Choose the mounting option (you can install both mounts and colors at the same time) you want to go with.
+ - Drag and Drop the files into your EUP resource.
+ 
+ 
+[MALE] VMenu Numbers:
+	 - Front mounted Magazine & Cuff Holster:
+	   Body Armor & Accessory - #28 
+	   [Note: press Enter for next color]
+	   
+	 - Back mounted Magazine & Cuff Holster:  
+	   Body Armor & Accessory - #27 
+	   [Note: press Enter for next color]
+	   
+[FEMALE] VMenu Numbers:
+	 - Front mounted Magazine & Cuff Holster:
+	   Body Armor & Accessory - #30
+	   [Note: press Enter for Tan Magazines]
+	   
+	 - Back mounted Magazine & Cuff Holster:  
+	   Body Armor & Accessory - #29 
+	   [Note: press Enter for Tan Magazines]

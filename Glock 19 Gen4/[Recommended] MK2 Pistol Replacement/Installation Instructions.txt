@@ -1,0 +1,10 @@
+Installation Tutorial for the FiveM Ready version of the Glock 19 Gen4, MK2 Pistol Replacement version by sergeantfranki#2708 \ https://thinlinesanctuary.com \ https://discord.gg/7UVysjf
+
+It is recommended you install the Glock on the MK2 Pistol slot, as the SNS Pistol version is no longer supported.
+
+Glock 19 Gen 4 installation:
+ - Open the "Color Options" folder, and choose which colorway you wish to go with.
+ - Copy the 2 files from whichever color you choose, and paste them into the provided Resource - thinline_glock - stream folder.
+ - Drag and Drop the folder named " thinline_glock " into your server's resources folder.
+ - Add the resource's name: " thinline_glock " to your server's config file, in order for the resource to load up automatically.
+ - You are all done! The Glock 19 is now installed on your server.				

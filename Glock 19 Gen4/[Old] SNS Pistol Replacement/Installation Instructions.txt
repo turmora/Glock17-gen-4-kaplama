@@ -1,0 +1,14 @@
+Installation Tutorial for the FiveM Ready version of the Glock 19 Gen4, SNS Pistol replacement version by sergeantfranki#2708 \ https://thinlinesanctuary.com \ https://discord.gg/7UVysjf
+
+IT IS NOT RECOMMENDED TO INSTALL ON THE SNS PISTOL SLOT, AS WE DO NOT SUPPORT IT ANYMORE! PLEASE KEEP THIS IN MIND!
+
+Glock 19 Gen 4 installation:
+ - Open the " Glock 19 Gen4 " folder.
+ - Choose the colorway you want to go with.
+ - Drag and Drop the folder named " thinline_glock " into your resources folder.
+ - Add the resource's name: " thinline_glock " to your server's config file, in order for the resource to load up automatically.
+ - You are all done! The Glock 19 is now installed on your server.				
+ 
+ 
+ IF you installed the Special Engraved Edition:
+- Equip the SNS Pistol, and open VMenu, or your preferred trainer, and equip the Etched Wood Grip finish in the weapon customization category.
